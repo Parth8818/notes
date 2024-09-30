@@ -21,3 +21,11 @@ $
 :smiley:
 :confused:
 :+1:
+
+# Keyboard shortcuts
+- Alt + F4
+- Alt + Tab
+- Ctrl + V
+- Ctrl + Shift + T
+
+  
