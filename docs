@@ -1,0 +1,12 @@
+# CLI Commands
+
+## ls
+The `ls` command lists all files and directories in the current directory.
+
+## cat
+The `cat` command displays the content of a file.
+
+
+
+## Add a page about CLI commands
+This is done as part of lab6
