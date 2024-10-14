@@ -28,4 +28,6 @@ $
 - Ctrl + V
 - Ctrl + Shift + T
 
+
+- [CLI commands](docs/cli.md)
   
