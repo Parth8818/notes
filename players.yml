@@ -1,0 +1,12 @@
+---
+- name: Virat Kohli
+  sport: Cricket
+  team:
+    name: RCB
+    city: Banglore
+- name: Sunil Chetri
+  sport: Football
+  team: 
+- name: Mahendra Singh Dhoni
+  sport: Cricket
+  team: CSK
